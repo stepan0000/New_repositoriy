@@ -1,2 +1,7 @@
 .p1{color: rgb(102,45,12)}
 .span1{color: green;}
+.p3{
+    font-size: 24pt;
+    text-shadow: 1pt 1pt 2pt green;
+    text-align: center  ;
+}
