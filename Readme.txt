@@ -1,2 +1,2 @@
-К уроку 4 по теме "Фреймворк Django":
-Задание 4 находится в "thirteenth commit"
+К уроку 5 по теме "Слой Template":
+Задание 4 находится в "fifteenth commit"
